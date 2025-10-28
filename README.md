@@ -8,3 +8,4 @@ FOLHAUNIVERSALMÊSGRÁTISout25
 <img width="1350" height="1083" alt="Cima" src="https://github.com/user-attachments/assets/5ec3db5b-4814-44d4-a0b4-52828572a4be" />
 <img width="1350" height="80" alt="Topo" src="https://github.com/user-attachments/assets/c5c1e1d2-e976-46f0-9a1e-3e6730801f3b" />
 <img width="829" height="172" alt="texto1" src="https://github.com/user-attachments/assets/ec73c4a2-951a-4096-8df5-9162d2322f72" />
+<img width="1349" height="68" alt="Camada 3 (mesclada)" src="https://github.com/user-attachments/assets/29410572-f4ff-4953-974b-1a49def8e4b1" />

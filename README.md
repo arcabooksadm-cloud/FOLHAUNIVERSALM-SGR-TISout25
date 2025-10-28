@@ -12,3 +12,4 @@ FOLHAUNIVERSALMÊSGRÁTISout25
 <img width="800" height="119" alt="veja como ativar sua assinatura grátis_" src="https://github.com/user-attachments/assets/06846369-73f1-4bab-bf0c-b2af4af61f59" />
 <img width="798" height="90" alt="importante" src="https://github.com/user-attachments/assets/f7969574-f494-4cad-965a-90a44944997b" />
 
+<img width="765" height="169" alt="GARANTA SUA FOLHA DIGITAL AQUI!" src="https://github.com/user-attachments/assets/a3b90b2d-109d-45c8-9151-25c369b58d5d" />

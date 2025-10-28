@@ -10,4 +10,5 @@ FOLHAUNIVERSALMÊSGRÁTISout25
 <img width="829" height="172" alt="texto1" src="https://github.com/user-attachments/assets/ec73c4a2-951a-4096-8df5-9162d2322f72" />
 <img width="1349" height="68" alt="Camada 3 (mesclada)" src="https://github.com/user-attachments/assets/29410572-f4ff-4953-974b-1a49def8e4b1" /> 
 <img width="800" height="119" alt="veja como ativar sua assinatura grátis_" src="https://github.com/user-attachments/assets/06846369-73f1-4bab-bf0c-b2af4af61f59" />
+<img width="798" height="90" alt="importante" src="https://github.com/user-attachments/assets/f7969574-f494-4cad-965a-90a44944997b" />
 

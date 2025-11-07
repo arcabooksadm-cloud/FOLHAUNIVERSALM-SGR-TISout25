@@ -20,3 +20,4 @@ FOLHAUNIVERSALMÊSGRÁTISout25
 <img width="798" height="90" alt="importante" src="https://github.com/user-attachments/assets/f7969574-f494-4cad-965a-90a44944997b" />
 
 <img width="765" height="169" alt="GARANTA SUA FOLHA DIGITAL AQUI!" src="https://github.com/user-attachments/assets/a3b90b2d-109d-45c8-9151-25c369b58d5d" />
+<img width="935" height="126" alt="Importante_" src="https://github.com/user-attachments/assets/b9a15640-d527-4220-874d-6385ba261d12" />
